@@ -129,7 +129,7 @@
 	<a href="https://www.linkedin.com/in/sanjai-r-sanjai-r-54b866221/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://m.facebook.com/p/Sanjai-R-100093584976621/?wtsid=rdr_0HpaGbL6TNtArlise&_rdr"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/__iajnas__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
- 	<a href="https://twitter.com/Sanjai722003"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+ 	<a href="https://twitter.com/Sanjai722003"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 	
 </p>
 
