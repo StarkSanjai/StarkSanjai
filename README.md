@@ -1,122 +1,143 @@
-<!-- Greeting -->
-<h1><b>Hi ,I'm Sanjai </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<!--Introduction -->
-<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b>
-
-<!-- Your badges -->
-
-[![Linkedin](https://img.shields.io/badge/-Sanjai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanjai-r-sanjai-r-54b866221/)
-[![Gmail](https://img.shields.io/badge/-Sanjai-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sanjairg2003@gmail.com)
-[![HackerRank](https://img.shields.io/badge/-Sanjai-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/h2016102)
-[![Instagram](https://img.shields.io/badge/-Sanjai-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/__iajnas__/)
-
-<!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=StarkSanjai&style=flat)
-[![Github](https://img.shields.io/badge/-Sanjai-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/StarkSanjai)
-
+<h1 align="center">Hi , I'm Sanjai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+<hr/>
+<h4 align="center">I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=StarkSanjai&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
+
+
+## 🛠️ My Skills
+
+### 👉 Programming languages
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+  </a> 
+  &emsp;
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.php.net/">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://www.php.net/">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-%23777BB4.svg?logo=sql&logoColor=white"/>
+  </a>
 </p>
 
-<hr>
-<h3>Skills</h3>
-<table align="center" height="auto">
-<tbody>
- 
- <tr>
+### 👉 Frontend Development
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
+</p>
+
+### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+ </p>
   
-<td align="center" width="20%">
-<span><b><center>C</center></b></span> 
-<img height=60px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"> 
-</td>
+### 👉Graphic Designing
+<p align="left">
+  &emsp;
+  	
   
-  <td align="center" width="20%" >
-<span><b><center>Python</center></b></span> 
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"> 
-</td>
-  
-<td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"> 
-</td>
- </tr>
+   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
+  </a> 
+    &emsp;
+  <a href="#">
+  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+  </a>
+ </p>
+
+ ### 👉 Software & Tools
  
-<tr>
-  <td align="center" width="20%">
-<span><b><center>CSS</center></b></span> 
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1200px-CSS3_logo.svg.png"> 
-</td>
- 
-<td align="center" width="20%">
-<span><b><center>BOOTSTRAP</center></b></span> 
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"> 
-</td>
- 
- <td align="center" width="20%">
-<span><b><center>AWS</center></b></span> 
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"> 
-</td>
- </tr>
+<p>
+  &emsp;
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  &emsp;
+</p>
 
- <tr>
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"> 
-</td>
-  <td align="center" width="20%">
-<span><b><center>PHP</center></b></span> 
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"> 
-</td>
-  <td align="center" width="20%">
-   <span><b><center>Angular</center></b></span> 
-  <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"> 
-  </td>
- </tr>
- <tr>
-  <td align="center" width="20%">
-      <span><b><center>Figma</center></b></span> 
-  <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"> 
-  </td>
-   <td align="center" width="20%">
-      <span><b><center>Nicepage</center></b></span> 
-  <img height=60px src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_abcefefd1edd4d99ece7f5a255da2df6/nicepage.png"> 
-  </td>
- </tr>
-</tbody>
-</table>
-<hr>
+<br/>
 
-💼  Things that I'm currently working on: 
-* Learning Front-End Web <img width="23" height="23" alt="front end logo" src="https://cdn-icons-png.flaticon.com/512/2721/2721616.png">  Development
-* Learning Back-End Web <img width="23" height="23" alt="front end logo" src="https://cdn-icons-png.flaticon.com/512/3668/3668474.png">  Development
+## 📊 Github Stats (Expand to View) 
 
-### 🌱 Challenges that I’m currently challenging myself:
- I set a couple of self-challenges in order to push myself more further.:running: 
 
-* Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
-* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
-* Adapting the minimalism life style
-<hr>
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-   <a href="https://gitstats.me/vignesho">
-    <h3 align="left"> My Github Stats </h3>
-  <img width="500" height="auto" align="left" alt="Sanjai's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=StarkSanjai&show_icons=true&theme=light&count_private=true&include_all_commits=true" /></a>
-  <br><br>
- 
-<h3 align="left">Streak</h3>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=StarkSanjai&" alt="Sanjai" />
-</td>
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sanjai Github Stats" src="https://github-readme-stats.vercel.app/api?username=StarkSanjai&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StarkSanjai&show_icons=true&locale=en&layout=compact&theme=algolia" alt="StarkSanjai" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
 
-<td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=StarkSanjai&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  </td>
-</tr>
-</table>
 
-<h4 align="center"> Thanks for Visiting!:innocent:</h4> 
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/StarkSanjai"><img alt="Sanjai's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=StarkSanjai&custom_title=Sanjai's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+<br/>
+
+## 🙋‍♀️ Let's Connect
+<p align="center">
+	<a href="mailto:sanjairg2003@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/StarkSanjai"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/sanjai-r-sanjai-r-54b866221/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://m.facebook.com/p/Sanjai-R-100093584976621/?wtsid=rdr_0HpaGbL6TNtArlise&_rdr"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/__iajnas__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	
+</p>
+
+<hr/>
